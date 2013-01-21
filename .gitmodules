@@ -1,0 +1,75 @@
+[submodule "hsn2-razorback"]
+	path = hsn2-razorback
+	url = https://github.com/CERT-Polska/hsn2-razorback.git
+[submodule "hsn2-yara"]
+	path = hsn2-yara
+	url = https://github.com/CERT-Polska/hsn2-yara.git
+[submodule "hsn2-webgui"]
+	path = hsn2-webgui
+	url = https://github.com/CERT-Polska/hsn2-webgui.git
+[submodule "hsn2-webclient"]
+	path = hsn2-webclient
+	url = https://github.com/CERT-Polska/hsn2-webclient.git
+[submodule "hsn2-url-feeder"]
+	path = hsn2-url-feeder
+	url = https://github.com/CERT-Polska/hsn2-url-feeder.git
+[submodule "hsn2-unicorn"]
+	path = hsn2-unicorn
+	url = https://github.com/CERT-Polska/hsn2-unicorn.git
+[submodule "hsn2-thug"]
+	path = hsn2-thug
+	url = https://github.com/CERT-Polska/hsn2-thug.git
+[submodule "hsn2-swf"]
+	path = hsn2-swf
+	url = https://github.com/CERT-Polska/hsn2-swf.git
+[submodule "hsn2-shell-scdbg"]
+	path = hsn2-shell-scdbg
+	url = https://github.com/CERT-Polska/hsn2-shell-scdbg.git
+[submodule "hsn2-reporter"]
+	path = hsn2-reporter
+	url = https://github.com/CERT-Polska/hsn2-reporter.git
+[submodule "hsn2-pcap-extract"]
+	path = hsn2-pcap-extract
+	url = https://github.com/CERT-Polska/hsn2-pcap-extract.git
+[submodule "hsn2-pcap-analyze"]
+	path = hsn2-pcap-analyze
+	url = https://github.com/CERT-Polska/hsn2-pcap-analyze.git
+[submodule "hsn2-object-store"]
+	path = hsn2-object-store
+	url = https://github.com/CERT-Polska/hsn2-object-store.git
+[submodule "hsn2-norm-url"]
+	path = hsn2-norm-url
+	url = https://github.com/CERT-Polska/hsn2-norm-url.git
+[submodule "hsn2-malicious-domains"]
+	path = hsn2-malicious-domains
+	url = https://github.com/CERT-Polska/hsn2-malicious-domains.git
+[submodule "hsn2-js-sta"]
+	path = hsn2-js-sta
+	url = https://github.com/CERT-Polska/hsn2-js-sta.git
+[submodule "hsn2-framework"]
+	path = hsn2-framework
+	url = https://github.com/CERT-Polska/hsn2-framework.git
+[submodule "hsn2-file-feeder"]
+	path = hsn2-file-feeder
+	url = https://github.com/CERT-Polska/hsn2-file-feeder.git
+[submodule "hsn2-data-store"]
+	path = hsn2-data-store
+	url = https://github.com/CERT-Polska/hsn2-data-store.git
+[submodule "hsn2-cuckoo"]
+	path = hsn2-cuckoo
+	url = https://github.com/CERT-Polska/hsn2-cuckoo.git
+[submodule "hsn2-console"]
+	path = hsn2-console
+	url = https://github.com/CERT-Polska/hsn2-console.git
+[submodule "hsn2-commons-python-lib"]
+	path = hsn2-commons-python-lib
+	url = https://github.com/CERT-Polska/hsn2-commons-python-lib.git
+[submodule "hsn2-capture-hpc"]
+	path = hsn2-capture-hpc
+	url = https://github.com/CERT-Polska/hsn2-capture-hpc.git
+[submodule "hsn2-commons-python-protobuf"]
+	path = hsn2-commons-python-protobuf
+	url = https://github.com/CERT-Polska/hsn2-commons-python-protobuf.git
+[submodule "hsn2-commons-java"]
+	path = hsn2-commons-java
+	url = https://github.com/CERT-Polska/hsn2-commons-java.git
