@@ -34,9 +34,9 @@
 [submodule "hsn2-pcap-analyze"]
 	path = hsn2-pcap-analyze
 	url = https://github.com/CERT-Polska/hsn2-pcap-analyze.git
-[submodule "hsn2-object-store"]
-	path = hsn2-object-store
-	url = https://github.com/CERT-Polska/hsn2-object-store.git
+[submodule "hsn2-object-store-mongodb"]
+	path = hsn2-object-store-mongodb
+	url = https://github.com/CERT-Polska/hsn2-object-store-mongodb.git
 [submodule "hsn2-norm-url"]
 	path = hsn2-norm-url
 	url = https://github.com/CERT-Polska/hsn2-norm-url.git
