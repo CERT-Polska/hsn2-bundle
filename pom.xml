@@ -136,6 +136,7 @@
 	<module>hsn2-js-sta</module>
 	<module>hsn2-capture-hpc</module>
 	<module>hsn2-swf</module>
+	<module>hsn2-swf-service</module>
 	<module>hsn2-reporter</module>
 	<module>hsn2-unicorn</module>
   </modules>   
