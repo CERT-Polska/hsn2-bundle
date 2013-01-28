@@ -73,3 +73,6 @@
 [submodule "hsn2-commons-java"]
 	path = hsn2-commons-java
 	url = https://github.com/CERT-Polska/hsn2-commons-java.git
+[submodule "hsn2-swf-service"]
+	path = hsn2-swf-service
+	url = https://github.com/CERT-Polska/hsn2-swf-service.git
