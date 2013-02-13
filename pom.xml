@@ -135,8 +135,8 @@
 	<module>hsn2-norm-url</module>
 	<module>hsn2-js-sta</module>
 	<module>hsn2-capture-hpc</module>
-	<module>hsn2-swf</module>
-	<module>hsn2-swf-service</module>
+	<module>swf-tools</module>
+	<module>hsn2-swf-cve</module>
 	<module>hsn2-reporter</module>
 	<module>hsn2-unicorn</module>
   </modules>   
