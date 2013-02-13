@@ -19,9 +19,6 @@
 [submodule "hsn2-thug"]
 	path = hsn2-thug
 	url = https://github.com/CERT-Polska/hsn2-thug.git
-[submodule "hsn2-swf"]
-	path = hsn2-swf
-	url = https://github.com/CERT-Polska/hsn2-swf.git
 [submodule "hsn2-shell-scdbg"]
 	path = hsn2-shell-scdbg
 	url = https://github.com/CERT-Polska/hsn2-shell-scdbg.git
@@ -73,6 +70,9 @@
 [submodule "hsn2-commons-java"]
 	path = hsn2-commons-java
 	url = https://github.com/CERT-Polska/hsn2-commons-java.git
-[submodule "hsn2-swf-service"]
-	path = hsn2-swf-service
-	url = https://github.com/CERT-Polska/hsn2-swf-service.git
+[submodule "swf-tools"]
+	path = swf-tools
+	url = https://github.com/CERT-Polska/swf-tools.git
+[submodule "hsn2-swf-cve"]
+	path = hsn2-swf-cve
+	url = https://github.com/CERT-Polska/hsn2-swf-cve.git
