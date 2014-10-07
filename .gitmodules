@@ -76,3 +76,6 @@
 [submodule "hsn2-swf-cve"]
 	path = hsn2-swf-cve
 	url = https://github.com/CERT-Polska/hsn2-swf-cve.git
+[submodule "hsn2-cuckoo-java"]
+	path = hsn2-cuckoo-java
+	url = https://github.com/CERT-Polska/hsn2-cuckoo-java.git
