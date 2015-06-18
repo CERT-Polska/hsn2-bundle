@@ -1,81 +1,108 @@
 [submodule "hsn2-razorback"]
 	path = hsn2-razorback
 	url = https://github.com/CERT-Polska/hsn2-razorback.git
+	branch = develop
 [submodule "hsn2-yara"]
 	path = hsn2-yara
 	url = https://github.com/CERT-Polska/hsn2-yara.git
+	branch = develop
 [submodule "hsn2-webgui"]
 	path = hsn2-webgui
 	url = https://github.com/CERT-Polska/hsn2-webgui.git
+	branch = develop
 [submodule "hsn2-webclient"]
 	path = hsn2-webclient
 	url = https://github.com/CERT-Polska/hsn2-webclient.git
+	branch = develop
 [submodule "hsn2-url-feeder"]
 	path = hsn2-url-feeder
 	url = https://github.com/CERT-Polska/hsn2-url-feeder.git
+	branch = develop
 [submodule "hsn2-unicorn"]
 	path = hsn2-unicorn
 	url = https://github.com/CERT-Polska/hsn2-unicorn.git
+	branch = develop
 [submodule "hsn2-thug"]
 	path = hsn2-thug
 	url = https://github.com/CERT-Polska/hsn2-thug.git
+	branch = develop
 [submodule "hsn2-shell-scdbg"]
 	path = hsn2-shell-scdbg
 	url = https://github.com/CERT-Polska/hsn2-shell-scdbg.git
+	branch = develop
 [submodule "hsn2-reporter"]
 	path = hsn2-reporter
 	url = https://github.com/CERT-Polska/hsn2-reporter.git
+	branch = develop
 [submodule "hsn2-pcap-extract"]
 	path = hsn2-pcap-extract
 	url = https://github.com/CERT-Polska/hsn2-pcap-extract.git
+	branch = develop
 [submodule "hsn2-pcap-analyze"]
 	path = hsn2-pcap-analyze
 	url = https://github.com/CERT-Polska/hsn2-pcap-analyze.git
+	branch = develop
 [submodule "hsn2-object-store-mongodb"]
 	path = hsn2-object-store-mongodb
 	url = https://github.com/CERT-Polska/hsn2-object-store-mongodb.git
+	branch = develop
 [submodule "hsn2-norm-url"]
 	path = hsn2-norm-url
 	url = https://github.com/CERT-Polska/hsn2-norm-url.git
+	branch = develop
 [submodule "hsn2-malicious-domains"]
 	path = hsn2-malicious-domains
 	url = https://github.com/CERT-Polska/hsn2-malicious-domains.git
+	branch = develop
 [submodule "hsn2-js-sta"]
 	path = hsn2-js-sta
 	url = https://github.com/CERT-Polska/hsn2-js-sta.git
+	branch = develop
 [submodule "hsn2-framework"]
 	path = hsn2-framework
 	url = https://github.com/CERT-Polska/hsn2-framework.git
+	branch = develop
 [submodule "hsn2-file-feeder"]
 	path = hsn2-file-feeder
 	url = https://github.com/CERT-Polska/hsn2-file-feeder.git
 [submodule "hsn2-data-store"]
+	branch = develop
 	path = hsn2-data-store
 	url = https://github.com/CERT-Polska/hsn2-data-store.git
+	branch = develop
 [submodule "hsn2-cuckoo"]
 	path = hsn2-cuckoo
 	url = https://github.com/CERT-Polska/hsn2-cuckoo.git
+	branch = develop
 [submodule "hsn2-console"]
 	path = hsn2-console
 	url = https://github.com/CERT-Polska/hsn2-console.git
+	branch = develop
 [submodule "hsn2-commons-python-lib"]
 	path = hsn2-commons-python-lib
 	url = https://github.com/CERT-Polska/hsn2-commons-python-lib.git
+	branch = develop
 [submodule "hsn2-capture-hpc"]
 	path = hsn2-capture-hpc
 	url = https://github.com/CERT-Polska/hsn2-capture-hpc.git
+	branch = develop
 [submodule "hsn2-commons-python-protobuf"]
 	path = hsn2-commons-python-protobuf
 	url = https://github.com/CERT-Polska/hsn2-commons-python-protobuf.git
+	branch = develop
 [submodule "hsn2-commons-java"]
 	path = hsn2-commons-java
 	url = https://github.com/CERT-Polska/hsn2-commons-java.git
+	branch = develop
 [submodule "swf-tools"]
 	path = swf-tools
 	url = https://github.com/CERT-Polska/swf-tools.git
+	branch = develop
 [submodule "hsn2-swf-cve"]
 	path = hsn2-swf-cve
 	url = https://github.com/CERT-Polska/hsn2-swf-cve.git
+	branch = develop
 [submodule "hsn2-cuckoo-java"]
 	path = hsn2-cuckoo-java
 	url = https://github.com/CERT-Polska/hsn2-cuckoo-java.git
+	branch = develop
