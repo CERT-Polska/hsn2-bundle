@@ -65,6 +65,7 @@
 [submodule "hsn2-file-feeder"]
 	path = hsn2-file-feeder
 	url = https://github.com/CERT-Polska/hsn2-file-feeder.git
+	branch = develop
 [submodule "hsn2-data-store"]
 	branch = develop
 	path = hsn2-data-store
