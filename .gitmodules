@@ -107,3 +107,7 @@
 	path = hsn2-cuckoo-java
 	url = https://github.com/CERT-Polska/hsn2-cuckoo-java.git
 	branch = develop
+[submodule "hsn2-md5-to-ssdeep"]
+	path = hsn2-md5-to-ssdeep
+	url = https://github.com/CERT-Polska/hsn2-md5-to-ssdeep.git
+	branch = develop
