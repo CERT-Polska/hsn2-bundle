@@ -14,7 +14,7 @@ for FILE in `ls`; do
 		else
 			echo "Not debian ready: $FILE"
 		fi
-        fi
+	fi
 done
 
 cd $BASE
