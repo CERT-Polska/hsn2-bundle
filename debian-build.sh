@@ -15,6 +15,18 @@ for FILE in `ls`; do
 			echo "Not debian ready: $FILE"
 		fi
 	fi
+	if [[ "$FILE" == "hsn2-razorback" ]]; then
+		cd ${BASE}/${FILE};
+		make nugget-commons
+		make packages64
+		mv *.deb $BASE/
+	fi
+	if [[ "$FILE" == "hsn2-thug" ]]; then
+		cd ${BASE}/${FILE}/docker;
+		debuild -us -uc
+		debuild clean
+		mv ../*.deb $BASE/
+	fi
 done
 
 cd $BASE
