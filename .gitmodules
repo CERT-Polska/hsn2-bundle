@@ -111,3 +111,7 @@
 	path = hsn2-md5-to-ssdeep
 	url = https://github.com/CERT-Polska/hsn2-md5-to-ssdeep.git
 	branch = develop
+[submodule "hsn2-commons-debian"]
+	path = hsn2-commons-debian
+	url = https://github.com/CERT-Polska/hsn2-commons-debian.git
+	branch = develop
