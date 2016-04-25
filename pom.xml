@@ -23,6 +23,8 @@
 		<module>hsn2-swf-cve</module>
 		<module>hsn2-reporter</module>
 		<module>hsn2-unicorn</module>
+		<module>hsn2-cuckoo-java</module>
+		<module>hsn2-md5-to-ssdeep</module>
 	</modules>
 </project>
 
