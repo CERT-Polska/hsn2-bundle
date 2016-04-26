@@ -25,6 +25,7 @@
 		<module>hsn2-unicorn</module>
 		<module>hsn2-cuckoo-java</module>
 		<module>hsn2-md5-to-ssdeep</module>
+		<module>hsn2-dnsinfo</module>
 	</modules>
 </project>
 
