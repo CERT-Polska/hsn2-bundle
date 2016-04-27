@@ -3,13 +3,17 @@
 mkdir -p build
 
 BASE=`pwd`
+cd ${BASE}/hsn2-commons-java;
+mvn clean install -U -Pbundle -Dmaven.test.skip
+
+cd $BASE
 for FILE in `ls`; do
 	if [[ -d ${BASE}/${FILE}/debian ]]; then
 		if [[ -f ${BASE}/${FILE}/debian/changelog ]]; then
 			cd ${BASE}/${FILE};
 			debuild -us -uc
 			debuild clean
-			rm ${BASE}/*.{dsc,tar.xz,build,changes}
+			rm ${BASE}/*.{dsc,tar.*,build,changes}
 			mv ${BASE}/*.deb ${BASE}/build/
 		else
 			echo "Not debian ready: $FILE"
@@ -19,13 +23,15 @@ for FILE in `ls`; do
 		cd ${BASE}/${FILE};
 		make nugget-commons
 		make packages64
-		mv *.deb $BASE/
+		rm *.{dsc,tar.*,build,changes}
+		mv *.deb $BASE/build/
 	fi
 	if [[ "$FILE" == "hsn2-thug" ]]; then
 		cd ${BASE}/${FILE}/docker;
 		debuild -us -uc
 		debuild clean
-		mv ../*.deb $BASE/
+		rm ../*.{dsc,tar.*,build,changes}
+		mv ../*.deb $BASE/build/
 	fi
 done
 
