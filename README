@@ -1,4 +1,4 @@
-Honeyspider Network 2
+Honeyspider Network 2.1
 
 Honeyspider Network is a highly-scalable system integrating multiple client honeypots to detect malicious websites.
 The project is a joint venture between NASK/CERT Polska (Poland) and National Cyber Security Centre (Netherlands). Our goal is to develop a complete system based on existing state-of-the-art tools and client honeypot solutions including a novel crawler application specially tailored for the bulk processing of URLs.
