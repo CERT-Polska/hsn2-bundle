@@ -1,0 +1,28 @@
+Honeyspider Network 2.1
+
+Honeyspider Network is a highly-scalable system integrating multiple client honeypots to detect malicious websites.
+The project is a joint venture between NASK/CERT Polska (Poland) and National Cyber Security Centre (Netherlands). Our goal is to develop a complete system based on existing state-of-the-art tools and client honeypot solutions including a novel crawler application specially tailored for the bulk processing of URLs.
+
+
+Dependencies needed to build all of the included modules:
+build-essential
+devscripts
+debhelper
+openjdk-7-jdk
+maven
+python-all
+python-setuptools
+python-pika
+protobuf-compiler
+uuid-dev
+libssl-dev
+libconfig-dev
+libcurl4-openssl-dev
+libjson0-dev
+libarchive-dev
+libemu2
+
+
+
+More information is available on the project's website:
+http://www.honeyspider.net

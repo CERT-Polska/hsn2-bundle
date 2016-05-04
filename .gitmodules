@@ -52,9 +52,6 @@
 [submodule "hsn2-data-store"]
 	path = hsn2-data-store
 	url = https://github.com/CERT-Polska/hsn2-data-store.git
-[submodule "hsn2-cuckoo"]
-	path = hsn2-cuckoo
-	url = https://github.com/CERT-Polska/hsn2-cuckoo.git
 [submodule "hsn2-console"]
 	path = hsn2-console
 	url = https://github.com/CERT-Polska/hsn2-console.git
@@ -76,3 +73,15 @@
 [submodule "hsn2-swf-cve"]
 	path = hsn2-swf-cve
 	url = https://github.com/CERT-Polska/hsn2-swf-cve.git
+[submodule "hsn2-cuckoo-java"]
+	path = hsn2-cuckoo-java
+	url = https://github.com/CERT-Polska/hsn2-cuckoo-java.git
+[submodule "hsn2-md5-to-ssdeep"]
+	path = hsn2-md5-to-ssdeep
+	url = https://github.com/CERT-Polska/hsn2-md5-to-ssdeep.git
+[submodule "hsn2-commons-debian"]
+	path = hsn2-commons-debian
+	url = https://github.com/CERT-Polska/hsn2-commons-debian.git
+[submodule "hsn2-dnsinfo"]
+	path = hsn2-dnsinfo
+	url = https://github.com/CERT-Polska/hsn2-dnsinfo.git
